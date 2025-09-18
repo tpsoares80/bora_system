@@ -15,6 +15,7 @@ from typing import List, Optional
 import requests
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -46,7 +47,13 @@ class YupooDownloader:
         opts.add_argument("--disable-dev-shm-usage")
         opts.add_argument("--no-sandbox")
         opts.add_argument("--window-size=1280,1200")
-        return webdriver.Chrome(options=opts)
+    
+        # 🔧 Força caminho correto do Chrome
+        opts.binary_location = "/usr/bin/google-chrome-stable"
+    
+        # 🔧 Força caminho correto do Chromedriver
+        service = Service("/usr/bin/chromedriver")
+        return webdriver.Chrome(service=service, options=opts)
 
     # ----------------------------- Helpers ------------------------------
     def _album_folder(self, album_url: str, album_folder_name: Optional[str]) -> Path:
