@@ -48,14 +48,15 @@ class YupooDownloader:
         opts.add_argument("--no-sandbox")
         opts.add_argument("--window-size=1280,1200")
 
-        # 🔧 Usa variável de ambiente ou fallback para caminho padrão
+        # 🔧 Usa o binário real do Chrome
         import os
         opts.binary_location = os.getenv("CHROME_BIN", "/opt/google/chrome/google-chrome")
 
-        # 🔧 Força caminho correto do Chromedriver
+        # 🔧 Caminho correto do Chromedriver
         service = Service("/usr/bin/chromedriver")
         driver = webdriver.Chrome(service=service, options=opts)
         return driver
+
 
 
     # ----------------------------- Helpers ------------------------------
