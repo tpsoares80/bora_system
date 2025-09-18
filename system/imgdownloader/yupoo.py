@@ -50,7 +50,7 @@ class YupooDownloader:
 
         # 🔧 Usa o binário real do Chrome
         import os
-        opts.binary_location = os.getenv("CHROME_BIN", "/opt/google/chrome/google-chrome")
+        opts.binary_location = "/opt/google/chrome/google-chrome"
 
         # 🔧 Caminho correto do Chromedriver
         service = Service("/usr/bin/chromedriver")
