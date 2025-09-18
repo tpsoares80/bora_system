@@ -53,7 +53,9 @@ class YupooDownloader:
         opts.add_argument("--window-size=1280,1200")
 
         # 🔧 Usa sempre o binário real do Chrome
-        opts.binary_location = "/usr/bin/chrome"
+        import os
+        opts.binary_location = os.getenv("CHROME_BIN", "/usr/bin/google-chrome")
+
 
         # 🔧 Caminho correto do Chromedriver
         service = Service("/usr/bin/chromedriver")
