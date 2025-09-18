@@ -1,0 +1,69 @@
+{
+  "tamanhos_adulto": [
+    "P",
+    "M",
+    "G",
+    "XG",
+    "2XG",
+    "3XG",
+    "4XG"
+  ],
+  "tamanhos_infantil": {
+    "16": "2 a 3 anos",
+    "18": "3 a 4 anos",
+    "20": "4 a 5 anos",
+    "22": "6 a 7 anos",
+    "24": "8 a 9 anos",
+    "26": "10 a 11 anos",
+    "28": "12 a 13 anos"
+  },
+  "paned_divider_position": 558,
+  "delay_padrao": 0.5,
+  "delay_apos_erro": 5.0,
+  "tamanho_minimo_imagem": 10,
+  "identificadores_categoria": [
+    "search",
+    "collection",
+    "categories"
+  ],
+  "caracteres_proibidos": [
+    "<",
+    ">",
+    ":",
+    "\"",
+    "|",
+    "?",
+    "*",
+    "\\",
+    "/"
+  ],
+  "ia_apis": [
+    "QUl6YVN5Q1VJZUIyZ2R3VDh6Wjd1c3ZvX3JKTTZDc1JNTEFxZTlj"
+  ],
+  "log_font_size": 14,
+  "logger_colors": {
+    "INFO": "#000000",
+    "SUCCESS": "#008040",
+    "ERROR": "#D0021B",
+    "WARNING": "#c9790e",
+    "DEBUG": "#9013FE",
+    "TIMESTAMP": "#666666"
+  },
+  "logger_font": {
+    "family": "Consolas",
+    "size": 12,
+    "weight": "normal"
+  },
+  "image_downloader": {
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "timeout": 10.0,
+    "delay_between_images": 0.5
+  },
+  "debug_mode": false,
+  "user_agent": "",
+  "timeout": 30,
+  "delay": 2,
+  "resize_images": false,
+  "image_quality": 90,
+  "config_window_geometry": "1226x824+100+73"
+}

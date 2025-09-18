@@ -1,0 +1,2825 @@
+{
+  "times_brasileiros": {
+    "abc": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Rio Grande do Norte",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "américa-rn": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Rio Grande do Norte",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "athletico": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Paraná",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "atlético goianiense": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Centro-Oeste",
+      "estado": "Goiás",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "atlético mineiro": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "Minas Gerais",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "atlético paranaense": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Paraná",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "avaí": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Santa Catarina",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "bahia de feira": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Bahia",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "bahia": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Bahia",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "botafogo": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "Rio de Janeiro",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "botafogo-pb": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Paraíba",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "bragantino": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "São Paulo",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "brasília": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Centro-Oeste",
+      "estado": "Distrito Federal",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "brasiliense": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Centro-Oeste",
+      "estado": "Distrito Federal",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "campinense": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Paraíba",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "ceará": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Ceará",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "chapecoense": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Santa Catarina",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "corinthians": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "São Paulo",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "coritiba": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Paraná",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "crb": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Alagoas",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "criciúma": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Santa Catarina",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "cruzeiro": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "Minas Gerais",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "csa": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Alagoas",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "cuiabá": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Centro-Oeste",
+      "estado": "Mato Grosso",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "ferroviário": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Ceará",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "figueirense": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Santa Catarina",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "flamengo": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "Rio de Janeiro",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "fluminense": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "Rio de Janeiro",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "fortaleza": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Ceará",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "goiás": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Centro-Oeste",
+      "estado": "Goiás",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "grêmio": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Rio Grande do Sul",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "guarani": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "São Paulo",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "internacional": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Rio Grande do Sul",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "ipatinga": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "Minas Gerais",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "ituano": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "São Paulo",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "joinville": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Santa Catarina",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "juventude": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Rio Grande do Sul",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "londrina": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Paraná",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "luverdense": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Centro-Oeste",
+      "estado": "Mato Grosso",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "manaus": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Norte",
+      "estado": "Amazonas",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "mirassol": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "São Paulo",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "moto club": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Maranhão",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "náutico": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Pernambuco",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "novorizontino": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "São Paulo",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "operário-ms": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Centro-Oeste",
+      "estado": "Mato Grosso do Sul",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "palmeiras": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "São Paulo",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "paraná": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sul",
+      "estado": "Paraná",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "paysandu": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Norte",
+      "estado": "Pará",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "ponte preta": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "São Paulo",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "portuguesa": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "São Paulo",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "remo": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Norte",
+      "estado": "Pará",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "sampaio correa": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Maranhão",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "santa cruz": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Pernambuco",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "santos": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "São Paulo",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "são caetano": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "São Paulo",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "são paulo": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "São Paulo",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "são raimundo": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Norte",
+      "estado": "Amazonas",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "sport": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Pernambuco",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "sport recife": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Pernambuco",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "recife sport": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Pernambuco",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "recife sports": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Pernambuco",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "tocantinópolis": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Norte",
+      "estado": "Tocantins",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "tombense": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "Minas Gerais",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "treze": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Paraíba",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "vasco da gama": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "Rio de Janeiro",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "vasco": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Sudeste",
+      "estado": "Rio de Janeiro",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "vila nova": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Centro-Oeste",
+      "estado": "Goiás",
+      "is_national_team": false,
+      "is_brazilian": true
+    },
+    "vitória": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "Nordeste",
+      "estado": "Bahia",
+      "is_national_team": false,
+      "is_brazilian": true
+    }
+  },
+  "times_internacionais": {
+    "aek": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Grécia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "ajax": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Holanda",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "américa": {
+      "tipo": "Equipes",
+      "continente": "América do Norte",
+      "pais": "México",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "anderlecht": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Bélgica",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "arsenal": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "aston villa": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "atalanta": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "athletic bilbao": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "atletico de madri": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "az alkmaar": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Holanda",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "barcelona": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "bayer leverkusen": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Alemanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "bayern": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Alemanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "benfica": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Portugal",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "beşiktaş": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Turquia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "boca jr": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Argentina",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "boca juniors": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Argentina",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "boca": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Argentina",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "bologna": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "borussia dortmund": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Alemanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "borussia": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Alemanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "bournemouth": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "braga": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Portugal",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "brentford": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "brighton": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "celta de vigo": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "celtic": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Escócia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "chelsea": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "chivas guadalajara": {
+      "tipo": "Equipes",
+      "continente": "América do Norte",
+      "pais": "México",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "club brugge": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Bélgica",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "crystal palace": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "cska moscou": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Rússia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "dínamo de kiev": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Ucrânia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "eintracht frankfurt": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Alemanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "everton": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "fenerbahçe": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Turquia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "feyenoord": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Holanda",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "fiorentina": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "fulham": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "galatasaray": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Turquia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "genk": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Bélgica",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "genoa": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "hearts": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Escócia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "heerenveen": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Holanda",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "hibernian": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Escócia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "independiente": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Argentina",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "inter miami": {
+      "tipo": "Equipes",
+      "continente": "América do Norte",
+      "pais": "Estados Unidos",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "inter milan": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "juventus": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "la galaxy": {
+      "tipo": "Equipes",
+      "continente": "América do Norte",
+      "pais": "Estados Unidos",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "lafc": {
+      "tipo": "Equipes",
+      "continente": "América do Norte",
+      "pais": "Estados Unidos",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "lazio": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "leeds united": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "leicester": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "leipzig": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Alemanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "lens": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "lille": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "liverpool": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "lyon": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "manchester city": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "manchester united": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "M-U": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "MU": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "marseille": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "milan": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "monaco": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "monterrey": {
+      "tipo": "Equipes",
+      "continente": "América do Norte",
+      "pais": "México",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "montpellier": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "nacional": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Uruguai",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "nantes": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "napoli": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "newcastle": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "nice": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "nottingham forest": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "olympiacos": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Grécia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "olympique de marseille": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "olympique marseille": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "osasuna": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "panathinaikos": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Grécia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "paris saint-germain": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "penarol": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Uruguai",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "peñarol": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Uruguai",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "porto": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Portugal",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "psg": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "psv": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Holanda",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "racing": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Argentina",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "rangers": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Escócia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "real betis": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "real madrid": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "real sociedade": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "rennes": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "river plate": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Argentina",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "river": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Argentina",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "roma": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "saint-etienne": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "saint-étienne": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "sampdoria": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "san lorenzo": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Argentina",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "sassuolo": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "schalke 04": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Alemanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "sevilla": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "shakhtar donetsk": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Ucrânia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "sheffield united": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "spartak moscou": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Rússia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "spartak moskva": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Rússia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "sporting": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Portugal",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "stuttgart": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Alemanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "tigres": {
+      "tipo": "Equipes",
+      "continente": "América do Norte",
+      "pais": "México",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "torino": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "tottenham": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "toulouse": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "trabzonspor": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Turquia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "twente": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Holanda",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "udinese": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "union berlin": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Alemanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "valencia": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "velez sarsfield": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Argentina",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "vélez sarsfield": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Argentina",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "velez": {
+      "tipo": "Equipes",
+      "continente": "América do Sul",
+      "pais": "Argentina",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "villarreal": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "vitoria de guimarães": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Portugal",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "vitória de guimarães": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Portugal",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "west ham": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "wolverhampton": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    },
+    "zenit": {
+      "tipo": "Equipes",
+      "continente": "Europa",
+      "pais": "Rússia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": false,
+      "is_brazilian": false
+    }
+  },
+  "selecoes": {
+    "africa do sul": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "África do Sul",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "alemanha": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Alemanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "algeria": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Argélia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "arabia saudita": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Arábia Saudita",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "argelia": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Argélia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "argentina": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Argentina",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "australia": {
+      "tipo": "Seleção",
+      "continente": "Oceania",
+      "pais": "Austrália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "austria": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Áustria",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "belgica": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Bélgica",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "belgium": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Bélgica",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "bolivia": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Bolívia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "brasil": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": true
+    },
+    "brazil": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Brasil",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": true
+    },
+    "camaroes": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Camarões",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "cameroon": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Camarões",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "canada": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "Canadá",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "catar": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Catar",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "chile": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Chile",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "china": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "China",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "colombia": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Colômbia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "coreia do sul": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Coreia do Sul",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "costa do marfim": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Costa do Marfim",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "costa rica": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "Costa Rica",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "croacia": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Croácia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "croatia": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Croácia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "cuba": {
+      "tipo": "Seleção",
+      "continente": "América Central",
+      "pais": "Cuba",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "czech republic": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "República Tcheca",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "denmark": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Dinamarca",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "dinamarca": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Dinamarca",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "dominicana": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "República Dominicana",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "ecuador": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Equador",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "egito": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Egito",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "egypt": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Egito",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "el salvador": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "El Salvador",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "emirados arabes": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Emirados Árabes Unidos",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "england": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "equador": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Equador",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "escócia": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Escócia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "espanha": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "estados unidos": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "Estados Unidos",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "fiji": {
+      "tipo": "Seleção",
+      "continente": "Oceania",
+      "pais": "Fiji",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "filipinas": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Filipinas",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "finland": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Finlândia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "finlandia": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Finlândia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "france": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "frança": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "França",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "gana": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Gana",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "germany": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Alemanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "ghana": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Gana",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "grecia": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Grécia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "greece": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Grécia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "guatemala": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "Guatemala",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "haiti": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "Haiti",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "holanda": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Holanda",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "honduras": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "Honduras",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "iceland": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Islândia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "india": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Índia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "indonésia": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Indonésia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "inglaterra": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Inglaterra",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "ira": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Irã",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "iran": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Irã",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "ireland": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Irlanda",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "irlanda": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Irlanda",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "irlanda do norte": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Irlanda do Norte",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "islandia": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Islândia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "italia": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "italy": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Itália",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "jamaica": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "Jamaica",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "japan": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Japão",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "japao": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Japão",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "malásia": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Malásia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "marrocos": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Marrocos",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "mexico": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "México",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "morocco": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Marrocos",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "netherlands": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Holanda",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "new zealand": {
+      "tipo": "Seleção",
+      "continente": "Oceania",
+      "pais": "Nova Zelândia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "nigeria": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Nigéria",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "noruega": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Noruega",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "norway": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Noruega",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "nova zelândia": {
+      "tipo": "Seleção",
+      "continente": "Oceania",
+      "pais": "Nova Zelândia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "país de gales": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "País de Gales",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "panama": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "Panamá",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "paraguai": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Paraguai",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "peru": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Peru",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "poland": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Polônia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "polonia": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Polônia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "portugal": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Portugal",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "qatar": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Catar",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "republica tcheca": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "República Tcheca",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "russia": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Rússia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "saudi arabia": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Arábia Saudita",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "senegal": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Senegal",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "serbia": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Sérvia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "singapore": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Singapura",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "singapura": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Singapura",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "south africa": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "África do Sul",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "south korea": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Coreia do Sul",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "spain": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Espanha",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "suecia": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Suécia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "suica": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Suíça",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "sweden": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Suécia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "switzerland": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Suíça",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "tahiti": {
+      "tipo": "Seleção",
+      "continente": "Oceania",
+      "pais": "Taiti",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "tailândia": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Tailândia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "taiti": {
+      "tipo": "Seleção",
+      "continente": "Oceania",
+      "pais": "Taiti",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "thailand": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Tailândia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "trinidad and tobago": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "Trinidad e Tobago",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "trinidad e tobago": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "Trinidad e Tobago",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "tunisia": {
+      "tipo": "Seleção",
+      "continente": "África",
+      "pais": "Tunísia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "turkey": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Turquia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "turquia": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Turquia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "ucrania": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Ucrânia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "ukraine": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "Ucrânia",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "united states": {
+      "tipo": "Seleção",
+      "continente": "América do Norte",
+      "pais": "Estados Unidos",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "uruguai": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Uruguai",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "uruguay": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Uruguai",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "venezuela": {
+      "tipo": "Seleção",
+      "continente": "América do Sul",
+      "pais": "Venezuela",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "vietnam": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Vietnã",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "vietnã": {
+      "tipo": "Seleção",
+      "continente": "Ásia",
+      "pais": "Vietnã",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    },
+    "wales": {
+      "tipo": "Seleção",
+      "continente": "Europa",
+      "pais": "País de Gales",
+      "regiao": "",
+      "estado": "",
+      "is_national_team": true,
+      "is_brazilian": false
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "preco_padrao": {
+    "preco": 199.9,
+    "preco_promocional": 179.9
+  },
+  "palavras_chave": {
+    "TESTE": {
+      "preco": 100.0,
+      "preco_promocional": 50.0,
+      "desconto_percentual": 50.0
+    },
+    "RETRO": {
+      "preco": 299.0,
+      "preco_promocional": 249.99,
+      "desconto_percentual": 16.39
+    }
+  }
+}
