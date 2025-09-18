@@ -47,13 +47,14 @@ class YupooDownloader:
         opts.add_argument("--disable-dev-shm-usage")
         opts.add_argument("--no-sandbox")
         opts.add_argument("--window-size=1280,1200")
-    
+
         # 🔧 Força caminho correto do Chrome
-        opts.binary_location = "/usr/bin/google-chrome-stable"
-    
+        opts.binary_location = "/usr/bin/google-chrome"
+
         # 🔧 Força caminho correto do Chromedriver
         service = Service("/usr/bin/chromedriver")
         return webdriver.Chrome(service=service, options=opts)
+
 
     # ----------------------------- Helpers ------------------------------
     def _album_folder(self, album_url: str, album_folder_name: Optional[str]) -> Path:
