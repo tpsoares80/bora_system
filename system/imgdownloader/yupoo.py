@@ -46,21 +46,16 @@ class YupooDownloader:
         opts.add_argument("--disable-software-rasterizer")
         opts.add_argument("--disable-dev-shm-usage")
         opts.add_argument("--no-sandbox")
-        opts.add_argument("--disable-setuid-sandbox")
-        opts.add_argument("--single-process")
-        opts.add_argument("--disable-extensions")
-        opts.add_argument("--disable-application-cache")
         opts.add_argument("--window-size=1280,1200")
 
-        # 🔧 Usa sempre o binário real do Chrome
-        import os
-        opts.binary_location = os.getenv("CHROME_BIN", "/usr/bin/google-chrome")
+        # 🔧 Caminho real do Chrome
+        opts.binary_location = "/usr/bin/google-chrome"
 
 
         # 🔧 Caminho correto do Chromedriver
         service = Service("/usr/bin/chromedriver")
-        driver = webdriver.Chrome(service=service, options=opts)
-        return driver
+        return webdriver.Chrome(service=service, options=opts)
+
 
 
 
